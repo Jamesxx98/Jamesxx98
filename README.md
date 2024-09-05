@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jimmy
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning python and C
 - 📫 How to reach me @Gme_maina on twitter
 
 
