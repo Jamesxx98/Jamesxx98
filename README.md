@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jimmy
-- 👀 I’m interested in learning new things
+- 👀 I’m interested in learning new things and also playing Fortnite.
 - 📫 How to reach me @Gme_maina on twitter
 
 
