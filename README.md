@@ -8,7 +8,7 @@ I'm a passionate software developer 🚀, specializing in FullStack Development 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ### 📊 GitHub Stats
-![https://github.com/Jamesxx98](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Jamesxx98](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
 
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical)
