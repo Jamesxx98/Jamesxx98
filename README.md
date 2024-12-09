@@ -7,6 +7,8 @@ I'm a passionate software developer 🚀, specializing in FullStack Development 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+
 
 ### 💡 Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
